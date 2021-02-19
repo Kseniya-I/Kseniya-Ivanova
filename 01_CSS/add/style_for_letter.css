@@ -1,0 +1,31 @@
+body{
+    margin: 80px;
+}
+
+
+.nazvanie{
+    text-align: right;
+}
+
+#kursiv{
+	text-align: right;
+}
+
+.shrift{
+    text-align: right;
+}
+
+#grazhdanin{
+    text-align: left;
+    font-style:initial;
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+ .sam_text{
+    text-align: justify;
+    font-family: Monotype Corsiva;
+    font-style: italic;
+   
+}
